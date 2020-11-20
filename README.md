@@ -4,4 +4,4 @@ Welcome to Dwight's Java Portfolio! Below are some of the applications that I ha
 
 This project was created using **Spring Boot**. 
 
-This application parses a CSV file to a database and uses the Thymeleaf dependancy to format then display the data to a website. Guide created by [Java Brains](https://www.youtube.com/watch?v=8hjNG9GZGnQ) [View My Code](https://github.com/dmcleish91/dmcleish91.github.io/tree/master/COVID-19-Tracker/src/main/java/com/dmcleish91/COVID19Tracker)
+This application parses a CSV file to a database and uses the Thymeleaf dependancy to format then display the data to a website. [View My Code](https://github.com/dmcleish91/dmcleish91.github.io/tree/master/COVID-19-Tracker/src/main/java/com/dmcleish91/COVID19Tracker)
