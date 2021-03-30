@@ -8,7 +8,7 @@ This application parses a CSV file and uses the Thymeleaf dependancy to format a
 
 ![Screenshot](smallwebsnip.png)
 
-## 1. JavaFX Contacts App
+## 2. JavaFX Contacts App
 
 This project was created using **JavaFX**. 
 
